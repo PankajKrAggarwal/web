@@ -1,0 +1,38 @@
+.cric
+{
+  border-radius: 50%;
+  border: 1px solid green;
+  padding: .5em;
+}
+.cric:hover
+{
+    background-color: green;
+    color: white;
+}
+.nike
+{
+    background-image: url(..//photo/grocery-banner.png);
+    background-size: cover;
+}
+.reebok
+{
+    background-image: url(..//photo/grocery-banner-2.jpg);
+    background-size: cover;
+}
+.sta
+{
+    color: gold
+}
+footer
+{
+    padding: 2em 0;
+    background-color: seashell;
+}
+.bgk
+{
+    background-color: antiquewhite;
+}
+.lock
+{
+    background-color: aqua!important;
+}
